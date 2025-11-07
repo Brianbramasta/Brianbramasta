@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brianbramasta
-- 👀 I’m interested in front-end development, building useful AI tools, and contributing to open-source web apps that improve productivity.
-- 🌱 I’m currently learning advanced React patterns, web scraping for freelance opportunities, and exploring AI integration in development workflows.
-- 💞️ I’m looking to collaborate on projects related to web development, task management apps, or tools that empower developers and remote teams.
-- 📫 How to reach me: brianaldybramasta@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brian-aldy-bramasta-718755186/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy reading self-improvement books, running, and having deep conversations about goals, optimism, and building a meaningful life.
+- I’m interested in front-end development, building useful AI tools, and contributing to open-source web apps that improve productivity.
+- I’m currently learning advanced React patterns, web scraping for freelance opportunities, and exploring AI integration in development workflows.
+- I’m looking to collaborate on projects related to web development, task management apps, or tools that empower developers and remote teams.
+- How to reach me: brianaldybramasta@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brian-aldy-bramasta-718755186/)
+- Pronouns: he/him
+- Fun fact: I enjoy reading self-improvement books, running, and having deep conversations about goals, optimism, and building a meaningful life.
